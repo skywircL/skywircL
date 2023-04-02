@@ -4,7 +4,7 @@
 ⌨️ a member of RedRock
 
 📫 MTgwMjUxNTgwMEBxcS5jb20=...
-<a><img align="right" src="https://raw.githubusercontent.com/MadFrey/homework.img/master/spy.png"  width="270 " height="270" /></a>
+<a><img align="right" src="https://fastly.jsdelivr.net/gh/MadFrey/homework.img/master/spy.png"  width="270 " height="270" /></a>
 
 
 
