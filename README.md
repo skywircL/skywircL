@@ -1,5 +1,14 @@
 ### Hi there 👋
+🙂 major in golang
+
+⌨️ a member of RedRock
+
 📫 MTgwMjUxNTgwMEBxcS5jb20=...
+<a><img align="right" src="https://raw.githubusercontent.com/MadFrey/homework.img/master/spy.png"  width="270 " height="270" /></a>
+
+
+
+
 <!--
 **MadFrey/MadFrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
