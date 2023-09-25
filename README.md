@@ -1,5 +1,5 @@
 ### Hi there 👋
-🙂 major in golang
+🙂 major in golang and rust
 
 ⌨️ a member of RedRock
 
