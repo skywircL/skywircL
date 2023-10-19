@@ -1,5 +1,5 @@
 ### Hi there 👋
-🙂 major in golang and rust
+🙂 70% golang, 20% rust, 10% python 
 
 ⌨️ a member of RedRock
 
