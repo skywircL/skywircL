@@ -4,7 +4,10 @@
 
 🙂 70% golang, 20% rust, 10% python 
 
-⌨️ a member of RedRock
+⌨️ Interested in ☁️ **Cloud Native** and full stack.Recent focus on Infra. 
+
+🌱 Currently learning Linux, Rust, Python, Distributed system and k8s
+
 
 📫 Skyterey@protonmail.com
 <a><img align="right" src="https://fastly.jsdelivr.net/gh/MadFrey/homework.img/spy.png"  width="270 " height="270" /></a>
