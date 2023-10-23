@@ -8,6 +8,7 @@
 
 🌱 Currently learning Linux, Rust, Python, Distributed system and k8s
 
+🚀 Dedicate more time to contributing to Open-Source technologies. 🌌
 
 📫 Skyterey@protonmail.com
 
