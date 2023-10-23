@@ -30,10 +30,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-<i>Take a look at my repositories and let's get in touch!</i>
+<i>let's get in touch!</i>
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=madfrey.madfrey" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MadFrey.MadFrey" alt="visitor badge"/>       
 </p>
 
 </p>
