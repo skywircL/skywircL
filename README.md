@@ -2,7 +2,9 @@
 
 ![](https://cdn.jsdelivr.net/gh/MadFrey/homework.img/banner.png)
 
-🙂 70% golang, 20% rust, 10% python 
+🙂 70% golang, 20% rust, 10% python
+
+💼 Now a member of redrock 🔥
 
 ⌨️ Interested in ☁️ **Cloud Native** and full stack.Recent focus on Infra. 
 
@@ -10,7 +12,6 @@
 
 🚀 Dedicate more time to contributing to Open-Source technologies. 🌌
 
-📫 Skyterey@protonmail.com
 
 <details>
   <summary>Some other achievements about me</summary>
