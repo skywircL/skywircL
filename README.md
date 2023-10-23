@@ -33,6 +33,11 @@
 <i>let's get in touch!</i>
 
 <p align="center">
+<a href= "https://www.madfrey.top"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+
+
+
+<p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=MadFrey.MadFrey" alt="visitor badge"/>       
 </p>
 
