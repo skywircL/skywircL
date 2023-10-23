@@ -24,10 +24,12 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=MadFrey&column=7" alt="MadFrey's Github Trophy" />
 </p>
 
+<a><img align="right" src="https://fastly.jsdelivr.net/gh/MadFrey/homework.img/spy.png"  width="270 " height="270" /></a>
+
 </details>
 
 
-<a><img align="right" src="https://fastly.jsdelivr.net/gh/MadFrey/homework.img/spy.png"  width="270 " height="270" /></a>
+
 
 
 
