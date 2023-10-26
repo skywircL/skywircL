@@ -2,11 +2,11 @@
 
 ![](https://cdn.jsdelivr.net/gh/MadFrey/homework.img/banner.png)
 
-🙂 70% golang, 20% rust, 10% python
+⌨️ Interested in ☁️ **Cloud Native** and full stack.Recent focus on Infra. 
 
 💼 Now a member of redrock 🔥
 
-⌨️ Interested in ☁️ **Cloud Native** and full stack.Recent focus on Infra. 
+📚 Reading 《Designing Data-Intensive Applications》
 
 🌱 Currently learning Linux, Rust, Python, Distributed system and k8s
 
