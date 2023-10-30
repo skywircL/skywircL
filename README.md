@@ -4,8 +4,6 @@
 
 ⌨️ Interested in ☁️ **Cloud Native** and full stack.Recent focus on Infra. 
 
-💼 Now a member of redrock 🔥
-
 📚 Reading 《Designing Data-Intensive Applications》
 
 🌱 Currently learning Linux, Rust, Python, Distributed system and k8s
