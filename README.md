@@ -21,7 +21,7 @@
 
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MadFrey.MadFrey" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=skywircL.skywircL" alt="visitor badge"/>       
 </p>
 
 </p>
