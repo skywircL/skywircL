@@ -2,7 +2,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/MadFrey/homework.img/banner.png)
 
-⌨️ Interested in ☁️ **Cloud Native** and full stack.Recent focus on Infra. 
+⌨️ Interested in ☁️ **Cloud Native** and full stack. Recent focus on Infra. 
 
 📚 Reading 《Designing Data-Intensive Applications》
 
