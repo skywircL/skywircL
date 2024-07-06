@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-<i>let's get in touch!</i>
+
 
 <p align="center">
 <a href= "https://www.madfrey.top"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
